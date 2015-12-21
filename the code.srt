@@ -1271,13 +1271,11 @@ for many years, what it was up to.
 
 281
 00:26:33,500 --> 00:26:38,500
-And paradoxically a
-closed source code company.
+و به صورت متناقضی یک کمپانی کلوز سورس بود..
 
 282
 00:26:38,505 --> 00:26:43,505
-The deal was that Linus could
-still concentrate on developing Linux.
+قراردادی که باعث میشد لینوس هم چنان بر روی توسعه لینوکس تمرکز داشته باشه.
 
 283
 00:26:44,500 --> 00:26:51,500
@@ -1296,42 +1294,35 @@ the person who started open source.
 
 286
 00:27:04,500 --> 00:27:09,500
-There's no single person that
-represents the whole story-
+شخص واحدی نماینده کل داستان نیست
 
 287
 00:27:09,505 --> 00:27:13,505
--and there's no single starting point.
-I mean, it's like the bamboo:
+و نقطه شروع یکتایی وجود نداره.منظورم اینه،این شبیه بامبو هستش:
 
 288
 00:27:14,500 --> 00:27:16,500
-You don't know where
-it starts or where it ends.
+شما نمی دونید چه جایی شروع شده و کجا به پایان میرسه.
 
 289
 00:27:16,505 --> 00:27:20,505
-I don't think that this movement
-is actually new at all.
+فک نمیکنم این انقلاب تماما یه حرکت جدید هست.
 
 290
 00:27:20,506 --> 00:27:22,506
-It's been around for a long time.
+مدت زمان زیادی وجود داشته در اطراف ما
 
 291
 00:27:23,500 --> 00:27:28,500
-Even in the 1970's, the whole
-attitude that we had around UNIX-
+حتی در دهه 70 میلادی،تمامی نگرش ها پیرامون یونیکس
 
 292
 00:27:28,505 --> 00:27:32,505
--even though technically
-it wasn't open source, it wasn't free,-
+با اینکه از دید تکنیکی متن باز و آزاد نبود
 
 293
 00:27:33,500 --> 00:27:37,500
--because you did need to
-go get this license from AT&T.
+چون شما نیاز به تهیه لایسنس از AT&T داشتید.
 
 294
 00:27:37,505 --> 00:27:42,505
