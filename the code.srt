@@ -322,111 +322,98 @@
 
 80
 00:08:30,500 --> 00:08:33,500
-همه بچه های اولین چیزها را
+همه بچه ها اولین چیزها را
 از بازی یاد میگیرند.
 
 81
 00:08:33,505 --> 00:08:39,505
-For that reason I think it was
-very important for Linus to enter-
+برای همین فکر میکنم خیلی مهم بوده که
+لینوس وقتی وارد دنیای کامپیوتر بشه
 
 82
 00:08:40,500 --> 00:08:46,500
--the computer world when computers
-still were simple enough even for a-
+که هنوز کامپیوتر ها اینقدر ساده هستند که 
 
 83
 00:08:46,505 --> 00:08:51,505
--10-12 year old boy to understand
-what was inside this machine.
+یه پسر ۱۰ - ۱۲ ساله هم از داخلشون سر در بیاره!
 
 84
 00:08:52,500 --> 00:08:56,500
-In today's world there's so
-many layers of information and-
+در دنیای امروز لایه های اطلاعاتی بسیار زیاد و چیزهای پیچیده ای
 
 85
 00:08:56,505 --> 00:09:01,505
--complicated stuff between that which
-is shown on the computer screen-
+بین چیزی که روی نمایشگر نشان داده میشه تا چیزی که داخل ماشین
+هست وجود داره
 
 86
 00:09:02,500 --> 00:09:06,500
--and that which is inside the machine.
-It's difficult for the children of today-
+
+و برای یه بچه امروزی مشکل هست تا 
 
 87
 00:09:06,505 --> 00:09:12,505
--to play their way to the insight
-the same way Linus did.
+همون راه لینوس رو بره تا از کامپیوتر سر در بیاره.
 
 88
 00:09:19,500 --> 00:09:24,500
-I think it was love at first
-sight both for my father and for-
+من فکر میکنم در درجه اول عشق باعث شده تا
 
 89
 00:09:24,505 --> 00:09:28,505
--Linus who together were childishly
-excited, both of them, to try-
+هم لینوس و هم پدرم (پدربزرگ لینوس) با شوقی کودکانه امکانات
 
 90
 00:09:29,500 --> 00:09:31,500
--the possibilities that VIC-20 offered.
+کامپیوتر کمودور VIC-20 رو آزمایش کنند
 
 91
 00:09:31,505 --> 00:09:34,510
-The place where Linus developed
-Linux is no longer-
+جایی که لینوس ، لینوکس رو توسعه میداد دیگه وجود نداره
 
 92
 00:09:35,505 --> 00:09:37,505
--because the walls have
-been torn down.
+چون دیوارها خراب شده
 
 93
 00:09:38,500 --> 00:09:42,500
-Here in the corner where the couch is
-is where Linus' desktop and computer,-
+اینجا مکان نیمکت و کامپیوتر لینوس هست
 
 94
 00:09:42,505 --> 00:09:45,505
--that he worked on, used to be.
+که عادت داشت روش مینشست و کار میکرد
 
 95
 00:09:49,500 --> 00:09:56,500
-The biggest change is that he
-nowadays is a stand up-guru-
+بزرگترین تغییر اینه که اون الان مثل یک مبلغ با استقامت هست
 
 96
 00:09:56,505 --> 00:10:00,505
--because he is used to perform in front
-of an audience and he can handle them.
+چون اون قبلا جلوی شنونده ها اجرا میکرد و میتونست اداره کنه
 
 97
 00:10:01,500 --> 00:10:07,500
-That might not be surprising, but still
-striking when compared with how-
+این نباید تعجب آور باشه ,ولی هنوز قابل توجه هست وقتی که با چیزی
+که در واقع در گذشته بوده مقایسه بشه
 
 98
 00:10:08,500 --> 00:10:12,500
--he actually was: relatively shy and
-withdrawn, and not the one who-
+انزواطلب و خجالتی و کسی نبود که باهات ارتباط برقرار کنه
 
 99
 00:10:12,505 --> 00:10:18,505
--got in touch, but his friends were
-the ones who kept in touch with him.
+ولی دوستانش کسانی بودند که ارتباطشون رو باهاش حفظ میکردند
 
 100
 00:10:19,500 --> 00:10:23,500
-Hello everybody out there using MINIX.
-I'm doing a free operating system.
+سلام به همه کاربران سیستم عامل مینیکس.
+من دارم یه سیستم عامل آزاد میسازم
 
 101
 00:10:23,505 --> 00:10:27,505
-Just a hobby. Won't be big
-and professional-
+فقط برای تفریح! 
+قرار نیست مثل گنو حرفه ای باشه
 
 102
 00:10:28,500 --> 00:10:32,500
