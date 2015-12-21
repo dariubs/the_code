@@ -290,42 +290,40 @@
 
 73
 00:07:36,500 --> 00:07:40,500
-That ability to foster cooperation
-could very well be something-
+توانایی به کارگیری درست این همکاری
 
 74
 00:07:40,505 --> 00:07:46,505
--that can only come from a
-person raised in a country like Finland.
+فقط میتونست از یه نفر که در فنلاند بزرگ شده بر بیاد
 
 75
 00:07:52,500 --> 00:07:55,500
-Helsinki, Finland
+هلسینکی ، فنلاند
 
 76
 00:08:01,500 --> 00:08:07,500
-1969 - it seems to
-have been such a good year.
+سال ۱۹۶۹
+به نظر میرسه سال بسیار خوبیه!
 
 77
 00:08:07,505 --> 00:08:13,505
-The moon landing, Woodstock, the birth
-of ARPANET, that led to Internet.
+فرود انسان به ماه ، فستیوال موسیقی وودستاک و تولد سازمان پروژه های تحقیقاتی پیشرفته شبکه (آرپانت)
+که منجر به تولد اینترنت شد.
 
 78
 00:08:16,500 --> 00:08:21,500
-The first steps of UNIX, the
-operating system for big computers-
+اولین قدم های یونیکس ، سیستم عاملی برای
+کامپیوترهای بزرگ
 
 79
 00:08:21,505 --> 00:08:27,505
--and on December 28
-Linus Torvalds is born.
+و ۲۸ دسامبر تولد
+لینوس تروالدز!
 
 80
 00:08:30,500 --> 00:08:33,500
-All children learn primarily
-through playing.
+همه بچه های اولین چیزها را
+از بازی یاد میگیرند.
 
 81
 00:08:33,505 --> 00:08:39,505
