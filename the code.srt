@@ -290,42 +290,40 @@
 
 73
 00:07:36,500 --> 00:07:40,500
-That ability to foster cooperation
-could very well be something-
+توانایی به کارگیری درست این همکاری
 
 74
 00:07:40,505 --> 00:07:46,505
--that can only come from a
-person raised in a country like Finland.
+فقط میتونست از یه نفر که در فنلاند بزرگ شده بر بیاد
 
 75
 00:07:52,500 --> 00:07:55,500
-Helsinki, Finland
+هلسینکی ، فنلاند
 
 76
 00:08:01,500 --> 00:08:07,500
-1969 - it seems to
-have been such a good year.
+سال ۱۹۶۹
+به نظر میرسه سال بسیار خوبیه!
 
 77
 00:08:07,505 --> 00:08:13,505
-The moon landing, Woodstock, the birth
-of ARPANET, that led to Internet.
+فرود انسان به ماه ، فستیوال موسیقی وودستاک و تولد سازمان پروژه های تحقیقاتی پیشرفته شبکه (آرپانت)
+که منجر به تولد اینترنت شد.
 
 78
 00:08:16,500 --> 00:08:21,500
-The first steps of UNIX, the
-operating system for big computers-
+اولین قدم های یونیکس ، سیستم عاملی برای
+کامپیوترهای بزرگ
 
 79
 00:08:21,505 --> 00:08:27,505
--and on December 28
-Linus Torvalds is born.
+و ۲۸ دسامبر تولد
+لینوس تروالدز!
 
 80
 00:08:30,500 --> 00:08:33,500
-All children learn primarily
-through playing.
+همه بچه های اولین چیزها را
+از بازی یاد میگیرند.
 
 81
 00:08:33,505 --> 00:08:39,505
@@ -1271,13 +1269,11 @@ for many years, what it was up to.
 
 281
 00:26:33,500 --> 00:26:38,500
-And paradoxically a
-closed source code company.
+و به صورت متناقضی یک کمپانی کلوز سورس بود..
 
 282
 00:26:38,505 --> 00:26:43,505
-The deal was that Linus could
-still concentrate on developing Linux.
+قراردادی که باعث میشد لینوس هم چنان بر روی توسعه لینوکس تمرکز داشته باشه.
 
 283
 00:26:44,500 --> 00:26:51,500
@@ -1296,42 +1292,35 @@ the person who started open source.
 
 286
 00:27:04,500 --> 00:27:09,500
-There's no single person that
-represents the whole story-
+شخص واحدی نماینده کل داستان نیست
 
 287
 00:27:09,505 --> 00:27:13,505
--and there's no single starting point.
-I mean, it's like the bamboo:
+و نقطه شروع یکتایی وجود نداره.منظورم اینه،این شبیه بامبو هستش:
 
 288
 00:27:14,500 --> 00:27:16,500
-You don't know where
-it starts or where it ends.
+شما نمی دونید چه جایی شروع شده و کجا به پایان میرسه.
 
 289
 00:27:16,505 --> 00:27:20,505
-I don't think that this movement
-is actually new at all.
+فک نمیکنم این انقلاب تماما یه حرکت جدید هست.
 
 290
 00:27:20,506 --> 00:27:22,506
-It's been around for a long time.
+مدت زمان زیادی وجود داشته در اطراف ما
 
 291
 00:27:23,500 --> 00:27:28,500
-Even in the 1970's, the whole
-attitude that we had around UNIX-
+حتی در دهه 70 میلادی،تمامی نگرش ها پیرامون یونیکس
 
 292
 00:27:28,505 --> 00:27:32,505
--even though technically
-it wasn't open source, it wasn't free,-
+با اینکه از دید تکنیکی متن باز و آزاد نبود
 
 293
 00:27:33,500 --> 00:27:37,500
--because you did need to
-go get this license from AT&T.
+چون شما نیاز به تهیه لایسنس از AT&T داشتید.
 
 294
 00:27:37,505 --> 00:27:42,505
