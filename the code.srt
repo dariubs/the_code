@@ -648,248 +648,244 @@ to have a monopoly-
 
 150
 00:15:06,500 --> 00:15:09,500
--over an important
-piece of technology.
+-فرا تر از یک مهم ،
+قسمتی از از فناوری
 
 151
 00:15:10,500 --> 00:15:14,500
-I think the timing was good. Even
-just a year earlier I don't think it-
+من فکر میکنم که حتی زمان بندی هم خوب بود . 
+حتی یکسال زود تر هم فکرشو نمیکردم
 
 152
 00:15:14,505 --> 00:15:21,505
--could've been done, and a year later
-someone would've done something similar.
+-میتونست تموم شده باشه ، و یکسال بعد 
+یک نفر میتونست کار مشابهی انجام داده باشه 
 
 153
 00:15:22,500 --> 00:15:26,500
-The Internet hadn't gotten
-to the general population-
+اینترنت هنوز به 
+جمعیت عمومی نرسیده بود
 
 154
 00:15:26,505 --> 00:15:31,505
--but it was getting very strong
-in university networks.
+-اما داشت خیلی قدرتمند میشد 
+توی شبکه ی دانشگاه ها .
 
 155
 00:15:34,500 --> 00:15:38,500
-I'd done a mailing list program
-in the "C" programming language-
+من یک برنامه ی لیست پستی نوشتم 
+به زبان برنامه نویسی C 
 
 156
 00:15:38,505 --> 00:15:41,505
-I had to expand it
-and add features.
+باید گسترشش میدادم 
+و به آن خصوصیاتی اضافه میکردم
 
 157
 00:15:42,500 --> 00:15:47,500
-Rapidly thousands of
-people were interested.
+به سرعت ، هزاران نفر 
+از مردم ، علاقه مند شده بودن.
 
 158
 00:15:47,505 --> 00:15:51,505
-It was a surprise. The numbers
-doubled in short intervals.
-
+یک شگفتی بود ، 
+تعداد در بازه زمانی کوتاه ، دوبرابر شده بود 
 159
 00:15:52,500 --> 00:15:58,500
-It was crazy. After 1000 people
-2000, the next day 4000 people.
+دیوانه کننده بود . بعد از ۱۰۰۰ نفر 
+۲۰۰۰ ، و روز بعد ۴۰۰۰ نفر.
 
 160
 00:16:00,500 --> 00:16:06,500
-Without Internet Linux development
-would've been like chess by mail.
+بدون اینترنت ، توسعه ی لینوکس 
+میتونست مثل شطرنج بازی کردن از طریق نامه نگاری باشه :)
 
 161
 00:16:11,500 --> 00:16:17,500
-My name of choice was "FREAX".
+انتخاب من فریکس ((FREAX)) بود 
 
 162
 00:16:17,505 --> 00:16:23,505
-Which was both "free", "freak"
-plus the "X" that you need for UNIX.
-
+که ترکیبی بود از Free و Freak 
+به علاوه X که یاد آورد UNIX است.
 163
 00:16:24,500 --> 00:16:30,500
-I didn't like the name FREAX.
-It wasn't very commercial...
+من از اسم فریکس خوشم نمیومد ، 
+خیلی تجاری و رسمی نبود ...
 
 164
 00:16:30,505 --> 00:16:36,505
-Ari Lemmke, who actually put Linux up for
-FTP, thought that it really was a bad idea.
+آری لمک ، کسی که لینوکس رو روی FTP گذاشت 
+فکر میکرد که واقعا این ایده ی خوبی نیست
 
 165
 00:16:37,500 --> 00:16:41,500
-He really hated the name. He
-made the FTP site available and just-
+واقعا از اسمش متنفر بود ، اون 
+سایت FTP رو راه انداخت و فقط -
 
 166
 00:16:42,500 --> 00:16:45,500
--called it Linux because
-that was the working name.
+اسمش رو گذاشت لینوکس ، چون -
+اسم کار بود .
 
 167
 00:16:46,500 --> 00:16:53,500
-The name stuck, and Linux
-is a much better name...
-
+اون اسم افتضاح بود ، و لینوکس ،
+اسم خیلی بهتریه 
 168
 00:16:55,500 --> 00:16:57,500
-"GEEKS"
+((گیک ها ))
 
 169
 00:16:57,505 --> 00:16:59,505
-"NERDS"
+((نرد ها))
 
 170
 00:17:00,500 --> 00:17:03,500
-We have an impressive
-set of geeks and nerds here.
+ما اینجا دسته ای تاثیر گذار از
+گیک ها و نرد ها داریم
 
 171
 00:17:03,505 --> 00:17:09,505
-The first question from the easy category:
-"How do you pronounce Linux?"
+اولین سوال از دسته سوالات آسون :
+لینوکس چطور تلفظ میشه ؟
 
 172
 00:17:10,500 --> 00:17:15,500
-Well, I pronounce Linux as "Linux".
+خب ، من لینوکس رو ((لینوکس)) تلفظ میکنم 
 
 173
 00:17:15,505 --> 00:17:21,505
-However, the total answer
-to that is if you're Linus Torvalds-
+بهرحال ، پاسخ کلی به این پرسش
+اینه که اگه شما لینوس تور والدز هستین ، 
 
 174
 00:17:22,500 --> 00:17:25,500
--you probably pronounce
-it "Leenux". On the other hand,-
+احتمالا تلفظش میکنین 
+لییینوکس ((Leenux)) . در حالت دیگه 
 
 175
 00:17:25,501 --> 00:17:27,510
--if you come from the west
-coast of the United States-
-
+اگه اهل ساحل غربی 
+واقع در ایالات متحده هستین ، 
 176
 00:17:28,505 --> 00:17:33,505
--you pronounce it as "Lynix". And Linus
-said he doesn't care how you pronounce it-
+لینیکس ((Lynyx)) میخونینش . و لینوس 
+گفت که براش مهم نیست که چطور تلفظش میکنین
 
 177
 00:17:34,500 --> 00:17:38,500
--as long as you just use it!
+تا وقتی که ازش استفاده میکنین!!
 
 178
 00:17:40,500 --> 00:17:43,500
-It was in July of 1991-
+توی ژويیه ی سال ۱۹۹۱ -
 
 179
 00:17:43,505 --> 00:17:48,505
--which was shortly after Linus had
-released the 0.09 version of the kernel-
+که زمان کوتاهی بعد از این بود که لینوس ،
+نسخه ۰.۰۹ کرنل رو منتشر کرده بود ،
 
 180
 00:17:49,500 --> 00:17:54,500
--that I started playing with Linux.
-Heard about it on, I think, Usenet.
+که من شروع کردم به ور رفتن و بازی کردن با لینوکس
+دربارش شنیده بودم ، فکر کنم توی USENET بود 
 
 181
 00:17:54,505 --> 00:17:57,505
-Downloaded it from Finland,
-started playing with it-
+از فنلاند دانلودش کردم ،
+و شروع کردم به ور رفتن باهاش
 
 182
 00:17:58,500 --> 00:17:59,509
--and thought it was really neat!
+و بنظرم خیلی باحال بود
 
 183
 00:18:00,500 --> 00:18:04,500
-At that point there was very
-limited trans-Atlantic Internet bandwidth-
+در اون نقطه ، 
+پهنای باند اینترنت بین اقیانوسی بسیار محدود بود
 
 184
 00:18:04,505 --> 00:18:10,505
--so it was very painful to down-
-load all these packages from Finland.
+به همین دلیل ، 
+دانلود تمامی بسته ها ((پکیج ها)) از فنلاند ، بسیار سخت بود
 
 185
 00:18:11,500 --> 00:18:14,500
-And so I decided: "Well, we
-need to do something about this"-
+و خب ، من تصمیم گرفتم که : ما باید
+درباره این مشکل یه فکری بکنیم
 
 186
 00:18:14,505 --> 00:18:21,505
--and I used my personal workstation,
+و از کامپیوتر شخصیم استفاده کردم 
 "TSX-11.mit.edu"-
 
 187
 00:18:22,500 --> 00:18:27,500
--and I set up a mirror archive of all the
-kernel sources on my private workstation.
+و یک آرشیو از تمامی سورس های 
+کرنل رو روی کامپیوتر شخصیم ، راه اندازی کردم
 
 188
 00:18:27,505 --> 00:18:33,505
-And that was the first US
-Linux FTP site that came into existence.
+و این اولین ، 
+سایت FTP لینوکس ،  در آمریکا ر. بوجود آورد .
 
 189
 00:18:35,500 --> 00:18:40,500
-The first time I got Linux was I
-downloaded the floppy images for Linux-
+اولین باری که لینوکس رو گرفتم ، زمانی بپد که 
+ایمیج های فلاپی لینوکس رو دانلود کرده بودم 
 
 190
 00:18:40,505 --> 00:18:45,505
--and in the Penn State University computer lab
-I installed it on one of their machines.
+و توی آزمایشگاه کامپیوتر دانشگاه Penn State University
+روی یکی از دستگاها ، نصبش کردم 
 
 191
 00:18:46,500 --> 00:18:49,500
-They subsequently kicked me
-out of the computer lab that day-
+اونها ، اون روز منو بلا فاصله از آزمایشگاه 
+بیرون کردن
 
 192
 00:18:49,501 --> 00:18:51,510
--but that was my
-first experience with Linux.
-
+ولی ، این 
+اولین تجربه ی من از لینوکس بود 
 193
 00:18:56,500 --> 00:19:02,500
-Very early in 1992 suddenly
-I didn't know everybody anymore.
+خیلی زود در ۱۹۹۲ ، 
+من دیگه هیچ کس رو نمیشناختم
 
 194
 00:19:02,505 --> 00:19:08,505
-That it was no longer
-me and a couple of friends.
+این بود که دیگه 
+من و تعدادی از دوستام نبودیم
 
 195
 00:19:09,500 --> 00:19:13,500
-It was me and a couple of
-hundred people who I had no idea-
+من بودم ،  و تعداد زیادی از 
+مردم ، که ایده ای نداشتم 
 
 196
 00:19:14,505 --> 00:19:18,505
--where they were, what they
-did with the system, and who they are.
+-کجا بودن ،  چه کاری با 
+سیستم انجام داده بودن و اصلا کی هستن 
 
 197
 00:19:19,500 --> 00:19:22,500
-And that was a big step.
+و این قدمی بزرگ بود
 
 198
 00:19:22,505 --> 00:19:24,505
-University of Helsinki
+-دانشگاه هلسینکی-
 
 199
 00:19:28,500 --> 00:19:32,500
-The 1.0 release in 1994 was certainly
-important and it meant a lot to me-
+انتشار نسخه ۱.۰ در سال ۱۹۹۴ ، 
+برای من بسیار مهم و با ارزش بود
 
 200
 00:19:32,501 --> 00:19:34,510
- خب چون کلی کار پشتش صورت گرفته
+فقط بخاطر اینکه 
+مقدار زیادی کار ، پشتوانش بود
 
 201
 00:19:35,505 --> 00:19:38,505
@@ -1583,142 +1579,143 @@ but another meaning is "freedom".
 
 351
 00:32:22,500 --> 00:32:29,500
-پس وقتی که لینوکس ساخته شد سیستم گنویی که قبلا وجود داشت کامل شد.(اینجا البته گوینده بقیه ی اجزا رو نادیده میگیره.)
+پس زمانی که لینوکس توسعه داده شد
+سیستم گنو نیز تحت تاثیر آن تکمیل شد
 
 352
 00:32:29,505 --> 00:32:34,505
-It began to catch on in
-popularity, but at the same time-
+و در همان زمان
+کم کم محبوب شد-
 
 353
 00:32:34,506 --> 00:32:38,506
--an unfortunate thing happened.
-The people who were using-
+-یک چیز ناخوش آیند رخ داد
+افرادی که از سیستم گنو استفاده میکردن-
 
 354
 00:32:39,500 --> 00:32:42,500
--the GNU system didn't
-realize it was the GNU system.
+-باور نمیکردن
+که این سیستم گنو باشه.
 
 355
 00:32:42,505 --> 00:32:48,505
-So they began calling the
-whole combination "Linux"-
+پس اونها شروع کردن به
+نام گذاری این سیستم به نام "لینوکس"-
 
 356
 00:32:49,500 --> 00:32:51,500
--and that confusion spread.
+-و سردرگمی ها شروع شد.
 
 357
 00:32:51,505 --> 00:32:55,505
-As a result, it's very hard
-for us in the GNU project-
+در نتیجه برای ما
+خیلی سخته در پروژه گنو-
 
 358
 00:32:56,500 --> 00:33:01,500
--to call the user's attention
-to the ethical and political issues.
+-تا به کاربران بگیم
+به مسائل اخلاقی و سیاسی گنو توجه کنند.
 
 359
 00:33:01,505 --> 00:33:05,505
-Hoarders can
-get piles of money
+ذخیره کننده ها میتونن
+مقدار زیادی پول داشته باشن
 
 360
 00:33:06,500 --> 00:33:12,500
-That is true, hackers,
-that is true
+این درست است ؛ هکر ها ؛
+این درست است
 
 361
 00:33:12,505 --> 00:33:16,505
-But they cannot
-help their neighbor
+ولی اونها نمیتونن
+به همسایه خودشون کمک کنن
 
 362
 00:33:17,500 --> 00:33:21,500
-That's not good, hackers,
-that's not good
+این خوب نیس ؛ هکر ها؛
+این خوب نیس
 
 363
 00:33:21,505 --> 00:33:27,505
-Most computer science in the USA comes
-traditionally from military background-
+بیشتر دانش کامپیوتری در امریکا
+از طریق موارد نظامی در پشت پرده توسعه پیدا میکنه-
 
 364
 00:33:27,506 --> 00:33:29,506
--and defense spending.
+-و برای منظورهای دفاع استفاده میشود.
 
 365
 00:33:30,500 --> 00:33:36,500
-Perhaps it isn't any more quirky that
-nowadays the "free software" movement-
+احتمالا برای همینه که
+امروزه جنبش "نرم افزار آزاد"-
 
 366
 00:33:36,505 --> 00:33:40,505
--finds room both for
-Richard Stallman and libertarian ideals.
+-جایگاهی برای دو مورد مهم همچون
+ریچارد استالمن و ایده های آزادی خواهانه او دارد.
 
 367
 00:33:41,500 --> 00:33:45,500
-Many saw free software also
-as a new way of making money-
+بیشتر افراد دیده اند که نرم افزار آزاد
+میتونه راهی برای کسب درآمد هم باشه-
 
 368
 00:33:45,501 --> 00:33:47,501
--and needed a less radical concept.
+-و نیاز به مفهوم ریشه ای کمتری هم دارد.
 
 369
 00:33:47,505 --> 00:33:50,505
-Enter: open source.
+متن باز وارد میشود!.
 
 370
 00:33:51,500 --> 00:33:53,500
-"I want you to be an
-open source developer"
+"من از شما میخوام که
+یک توسعه دهنده متن باز باشید"
 
 371
 00:33:57,500 --> 00:34:02,500
-We looked at the history
-of advocacy in what at the time was-
+ما نگاهی در تاریخ انداختیم
+و حمایت هایی که در گذشت زمان رخ داده بود-
 
 372
 00:34:02,501 --> 00:34:05,501
--still mostly called the "free software"
-movement and we concluded-
+-هنوز هم مانند قبل نرم افزار آزاد شناخته میشود
+همچنین جنبش آن و ما نتیجه گرفتیم-
 
 373
 00:34:05,502 --> 00:34:06,509
--that it hadn't worked!
+-که این کار نمیکند!
 
 374
 00:34:07,500 --> 00:34:12,500
-That in fact the rhetoric and the tactics
-used by Richard Stallman and the-
+که در واقع لفاظی و تاکتیک
+استفاده شده توسط ریچارد استالمن و-
 
 375
 00:34:12,505 --> 00:34:15,505
--Free Software Foundation had left us
-worse off than we were when we started.
+-بنیاد نرم افزار آزاد تنها گذاشته شده بودیم
+حتی بدتر از زمانی که شروع کرده بودیم!.
 
 376
 00:34:17,500 --> 00:34:21,500
-The term "open source" doesn't
-really imply the political issues-
+و اصطلاح "متن باز"
+در حقیقت حاکی از مسائل سیاسی نیست-
 
 377
 00:34:21,505 --> 00:34:26,505
--like it used to and the
-"free software" term still does.
+-مانند آنچه که برای آن استفاده شده و 
+و اصطلاح نرم افزار آزاد هنوز هم وجود دارد.
 
 378
 00:34:27,500 --> 00:34:30,500
-There's now a second movement,
-the "open source" movement-
+هم اکنون یه جنبش دوم نیز داریم,
+جنبش "متن باز"-
 
 379
 00:34:30,505 --> 00:34:34,505
--where they consider
-only the practical benefits.
+-که آنها فقط
+منافع عملی رو ترجیح میدن.
 
 380
 00:34:35,500 --> 00:34:40,500
