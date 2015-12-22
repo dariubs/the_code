@@ -2402,177 +2402,182 @@ and whatever I say you should not care!
 
 531
 00:46:39,500 --> 00:46:41,500
-Thank you very much!
+خیلی ممنونم
 
 532
 00:46:41,501 --> 00:46:46,505
--You come down to India next time...
--I will try to...
+-دفعه بعدی که به هندوستان بیاید...
+-سعی میکنم ...
 
 533
 00:46:48,500 --> 00:46:51,500
-Do you want to take a
-picture for a Dutch magazine?
+میخوای یه عکس بگیری
+واسه یه مجله هلندی؟
 
 534
 00:46:52,500 --> 00:46:55,500
-Are you planning on
-coming to the Netherlands?
+برنامه ای برای
+اومدن به هلند داری؟
 
 535
 00:46:57,500 --> 00:47:04,500
-The real value of Linux may be some-
-where else than knocking Microsoft out.
+ارزش واقعی لینوکس شاید چیزی
+بیشتر از ضربه زدن به مایکروسافت باشد
 
 536
 00:47:06,500 --> 00:47:11,500
-Linux was designed to run on a cheap
-hardware and to solve common problems.
+لینوکس برای اجرا روی سخت افزار های ضعیف
+و حل مشکلات معمول طراحی شده.
 
 537
 00:47:13,500 --> 00:47:18,505
-If you are poor it is a
-real alternative, free of charge.
+اگر از نظر مالی ضعیف هستی
+این یه جایگزین مناسب و رایگان برا شماست
 
 538
 00:47:19,500 --> 00:47:24,500
-The Linux project started
-in Europe and the United States.
+پروژه لینوکس در اروپا
+و آمریکا آغاز شد.
 
 539
 00:47:24,505 --> 00:47:28,505
-But now, free software
-allows it to find ever more-
+اما حالا نرم افزار آزاد 
+این امکان رو میده هر جایی بتونی پیداش کنی.
 
 540
 00:47:28,506 --> 00:47:30,510
--new programmers
-from new sources-
+-برنامه نویسای جدید
+از جاهای جدید-
 
 541
 00:47:32,500 --> 00:47:36,500
--from regions where
-computing is still in its infancy.
+-از هر منطقه ای
+محاسبات هنوز در مراحل ابتدایی است.
 
 542
 00:47:40,500 --> 00:47:43,500
-Beijing, China
+پکن, چین
 
 543
 00:47:46,500 --> 00:47:51,500
-China is behind the developed
-countries in the IT industry.
+چین کشورهای توسعه یافته
+در صنعت فناوری اطلاعات را پشت سر گذاشته است.
 
 544
 00:47:51,505 --> 00:47:54,505
-The gap is big and
-we try to catch up as fast we can.
+بحث بزرگیه و ما 
+سعی میکنیم یه نگاه سریع به عقب بندازیم
+
 
 545
 00:47:54,506 --> 00:47:57,515
-During this we have to borrow
-from other countries' experiences.
+در این حین مجبوریم تجارب
+دیگر کشورها رو در نظر بگیریم
 
 546
 00:47:59,500 --> 00:48:02,500
-We put a great importance
-on the operating system.
+ما توجه زیادی روی
+سیستم عامل گذاشتیم
 
 547
 00:48:02,505 --> 00:48:06,505
-We did some
-development work based on UNIX-
+ما بعضی کارای
+توسعه رو بر اساس UNIX انجام دادیم
 
 548
 00:48:07,500 --> 00:48:10,500
-Due to tight market control
-we were not able to succeed.
+با توجه به کنترل بازار بصورت بسته
+ما نمی تونستیم موفق بشیم.
 
 549
 00:48:10,505 --> 00:48:13,505
-Linux provides us
-with a very good opportunity
+لینوکس برای مابا یه
+فرصا بسیار خوب فراهم شد
+
 
 550
 00:48:13,506 --> 00:48:17,515
--and a base to learn
-from advanced technology.
+-و یه پایه برای یادگیری
+از فناوری های پیشرفته.
 
 551
 00:48:19,500 --> 00:48:24,500
-"The Chinese Red Army
-delighted with Linux"
+"ارتش سرخ چین
+با لینوکس به وجد آمد"
 
 552
 00:48:27,500 --> 00:48:33,500
-I think that this is the greatest
-transfer of wealth we may have ever seen-
+من فکر میکنم این بزرگ ترین
+انتقال ثروتیه که تا حالا دیدیم
+
 
 553
 00:48:33,501 --> 00:48:37,501
--between the industrialized
-rich north, and put Europe and-
+-بین شمال صنعتی ثروتمند
+و اروپا و آمریکا رو
+
+
 
 554
 00:48:37,502 --> 00:48:42,502
--the United States together
-in that, and the third world!
+-متحد با هو قرار داد و البته جهان سومی ها رو!
 
 555
 00:49:01,500 --> 00:49:05,500
-It's the open source.
+این کد بازه!(یعنی کد قابل روئیت برای همه ست)
 
 556
 00:49:05,505 --> 00:49:10,505
-I think this is
-important to many people.
+من فکر میکنم این
+برای هر کسی مهمه.
 
 557
 00:49:11,500 --> 00:49:16,500
-I like philosophy, and I like to analyze
-matters from a philosophic perspective.
+من فلسفه رو دوست دارم، دوست دارم مسائل
+رو از دیدگاه فلسفی تجزیه و تحلیل کنم.
 
 558
 00:49:16,505 --> 00:49:20,505
-The open source is in
-accordance with the spirit of science-
+کد باز دقیقا
+با روح علم منطبقه-
 
 559
 00:49:21,500 --> 00:49:24,500
--the free and unrestricted
-access to information.
+-آزادی و دسترسی
+نامحدود به اطلاعات.
 
 560
 00:49:24,505 --> 00:49:27,505
-Nothing should be hidden.
-That's my first impression of Linux.
+هیچ چیز نباید پنهان باشه.
+این اولین برداشت من از لینوکسه.
 
 561
 00:49:34,500 --> 00:49:38,500
-The spirit could be
-expanded to other fields.
+این روح میتونه به بخش های دیگه هم گسترش پیدا کنه.
 
 562
 00:49:38,505 --> 00:49:44,505
-I never feel that this
-only applies in the computer field.
+من اصلا احساس نمی کنم که
+این فقط توی بخش کامپیوتر شدنی باشه.
 
 563
 00:49:46,500 --> 00:49:52,500
-You have one of the most privileged
-classes in capitalism: programmers!
+شما یکی از بالاترین اقشار سرمایه داری
+رو میشناسید: برنامه نویسا!(البته نه توی ایران!)
 
 564
 00:49:52,501 --> 00:49:55,501
-They can make so much
-money from working as programmers-
+اونا میتونن پول زیادی رو از
+کار برنامه نویسی در بیارن
+
 
 565
 00:49:55,502 --> 00:49:58,504
--that they have the time
-to devote to their own hobbies.
+-اونا زمانی برای سرگرمیای خودشون دارن
+
 
 566
+
 00:49:58,505 --> 00:50:01,510
 Programmers like Alan Cox,
 they could name their price!
@@ -2616,40 +2621,40 @@ doesn't make money-
 The wealth comes as
 the result of applications.
 
+
 575
 00:50:49,500 --> 00:50:53,500
-For the open source
-hackers developing Linux-
+برای کد باز
+هکر های توسعه دهنده لینوکس-
 
 576
 00:50:53,501 --> 00:50:58,510
--has traditionally been a science-
-like voluntary project. A hobby.
+-یه رسم علمی داشتن*-
+مثل پروژه های داوطلبانه،یه تفریح
 
 577
 00:51:01,500 --> 00:51:05,505
-Eventually, the best
-Linux hackers were enlisted.
+در حقیقت،بهترین هکر های لینوکس داوطلب شدن
 
 578
 00:51:06,500 --> 00:51:12,505
-In 1999, during the dot-com boom,
-some of the Linux companies went public.
+در سال 1999, زمان انفجار دات کام,
+برخی از شرکت های لینوکسی عمومی شدن.
 
 579
 00:51:13,500 --> 00:51:17,505
-Wall Street announced record-
-breaking value for Linux stock.
+وال استریت رکورد شکنی ارزش 
+سهام لینوکس رو اعلام کرد.
 
 580
 00:51:18,500 --> 00:51:22,500
-Of course it didn't last,
-but for a period of time-
+البته دوام نداشت,
+اما برای یه دوره زمانی-
 
 581
 00:51:22,501 --> 00:51:26,505
--some Linux hackers
-were filthy rich - on paper.
+-بعضی از هکر های لینوکسی
+روی کاغذ ثروتمند های کثیف بودن.
 
 582
 00:51:28,500 --> 00:51:32,500
