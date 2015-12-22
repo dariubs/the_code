@@ -1729,252 +1729,231 @@ and making a good society to live in.
 
 382
 00:34:48,500 --> 00:34:51,500
-That kind of language is
-implicitly threatening to people-
+در ضمن این جور حرف زدن تهدیدیِ برای مردمی
 
 383
 00:34:51,505 --> 00:34:57,505
--whose day-to-day concerns are: "how
-do I increase my shareholder value?",-
+که نگرانی‌های روزانشون از این قبیله؟
+«من چجوری می‌تونم ارزش سهامم رو بالا ببرم؟»
 
 384
 00:34:57,506 --> 00:34:59,506
--"how do I keep
-control over my business?"
+«من چجوری می‌تونم کسب و کارم رو کنترل کنم؟»
 
 385
 00:35:00,500 --> 00:35:05,500
-How do I address my
-actual down-to-earth problems?
+«چجوری می‌تونم به مشکلات واقعیم غلبه کنم؟»{{}}
 
 386
 00:35:05,501 --> 00:35:08,510
-When you walk into their offices and say
-"you should use all open source for your-
+زمانی که شما به دفتر اینجور افراد می‌رید و می‌گید:
+« شما باید برای کسب و کارتون از متن باز استفاده کنید
 
 387
 00:35:09,505 --> 00:35:15,505
--business because sharing is good
-and hoarding is evil" - it doesn't work!
+چون به اشتراک گذاشتن خوبه و احتکار  شیطانیه.»
+این روش جواب نمی‌ده.
 
 388
 00:35:16,500 --> 00:35:21,500
-I am not against business.
-I don't believe in abolishing business.
+من مخالف کار کردن و پول درآوردن نیستم.
+من اعتقاد ندارم که باید کسب و کارها رو از بین برد.
 
 389
 00:35:21,501 --> 00:35:26,509
-I do business myself. But I believe
-business should not dominate all of life.
+من خودم کار می‌کنم و پول در میارم. اما معتقدم
+کار و پول درآوردن نباید بر همه‌ی زندگی چیره بشه.{{}}
 
 390
 00:35:27,500 --> 00:35:33,500
-The rules of society should not
-be chosen primarily to please business.
+قوانین جامعه نباید بگونه‌ای باشند که اصولاً خواستار پول درآوردن باشند.
 
 391
 00:35:33,505 --> 00:35:38,505
-Early in 1998 the majority usage in
-the community went from "free software"-
+در اوایل 1998 عرف عمومی جامعه طی ۶ هفته
+به صورت یکنواخت از «نرم‌افزار آزاد»
 
 392
 00:35:39,500 --> 00:35:45,500
--to "open source" in six weeks flat.
-In the late spring or early summer of 1998.
+به سمت «بازمتن» رفت.
+در حدود اواخر پاییز تا اوایل تابستان.
 
 393
 00:35:45,505 --> 00:35:50,505
-That told me that there had been huge
-pent-up demand in the community-
+این به من میگه که نیاز پایمال شده‌ی
+بزرگی در جامع وجود داره
 
 394
 00:35:50,505 --> 00:35:54,505
--for a way of explaining what we
-were doing that was more effective.
+برای یک روش موثرتر توضیح دادن کاری که ما انجام می‌دیم.
 
 395
 00:35:55,500 --> 00:35:59,500
-The whole attitude in the
-trade press and the investor community-
+گرایش کلّی مطبوعات و جامعه‌ی سرمایه‌گزاری
 
 396
 00:35:59,501 --> 00:36:01,501
--completely turned around!
+به طور کامل عوض شده.
 
 397
 00:36:02,505 --> 00:36:08,505
-The same people who had spent years
-sneering dismissively at "free software"-
+همون کسانی که سال‌ها با بی‌اهمیتی
+به نرم‌افزار آزاد نیشخند می‌زدند
 
 398
 00:36:09,500 --> 00:36:13,500
--and talking about
-sandal-wearing freaks with long hair...
+و در مورد یک صندل پوش مو بلند صحبت می‌کردن...
 
 399
 00:36:13,505 --> 00:36:19,505
-Those very same people within a year
-were falling all over themselves to write-
+در طی یک سال، همه‌ی اون آدما رو 
+در حالی میدیدی که دارن 
 
 400
 00:36:20,500 --> 00:36:23,500
--laudatory articles about the wonders
-of open source and peer review.
+مقاله‌های تحسین برانگیز در مورد شگفتی‌های متن‌باز می‌نوشتن 
+و بررسی‌های ریزبینانه‌ای در مورد اون انجام می‌دادن
 
 401
 00:36:23,505 --> 00:36:26,505
--and this is really funny
-because it was the same software-
+و این واقعاً جالب بود، چون 
+راجع به همون نرم‌افزارها بود
 
 402
 00:36:26,506 --> 00:36:29,506
--and in most
-cases the same people!
+و در بیشتر موارد همون آدم‌ها بودن
 
 403
 00:36:30,500 --> 00:36:33,500
-"Robin Hood of the nerds"
+«رابین هود تازه کارهای رایانه»
 
 404
 00:36:33,505 --> 00:36:36,505
-"Martin Luther, meet Linus Torvalds"
+«مارتین لوتر، لینوس تروالدز را ملاقات کرد.»
 
 405
 00:36:38,500 --> 00:36:43,500
-Linux happened without
-the help of people with deep pockets-
+لینوکسبدون کمک آدم‌هایی با 
+جیب پر پول ساخته شد{{}}
 
 406
 00:36:43,501 --> 00:36:45,501
--or even despite the help.
+و حتی کمک رو اهانت می‌دونست.{{}}
 
 407
 00:36:45,505 --> 00:36:51,505
-How can we keep from destroying the
-magic by pouring all this money into Linux?
+ما چجوری می‌تونیم از خراب شدن این جادو بوسیله‌ی
+ ریختن همه‌ی این پول‌ها به لینوکس جلوگیری کنیم.
 
 408
 00:36:52,500 --> 00:36:54,500
-When Linux started
-to become commercialized-
+زمانی که لینوکس شروع به تجاری شدن کرد
 
 409
 00:36:54,505 --> 00:36:59,505
--people said: "oh well, we'd like to
-keep it as our own little project".
+مردم گفتن:«بسیار خوب، ما دوست داریم اون رو
+ به عنوان پروژه کوچولوی خودمون داشته باشیم.»
 
 410
 00:37:00,500 --> 00:37:02,500
-"Nobody should be
-making any money off it".
+«هیچکس نباید از اون پول در بیاره.»
 
 411
 00:37:02,505 --> 00:37:08,505
-Well, in the real world people make
-money off things. The US is a capitalistic-
+بسیار خوب، در دنیای واقعی مردم از داشته‌هاشون 
+پول درمیارن. آمریکا یک کشور کاپیتالیسمی هست
 
 412
 00:37:08,506 --> 00:37:11,506
--society and
-Europe is a capitalistic society.
+اروپا هم کاپیتالیسمی هست.
 
 413
 00:37:11,507 --> 00:37:16,509
-In order for
-companies to start using Linux-
+زمانی که شرکت‌ها شروع به استفاده از لینوکس کردن
 
 414
 00:37:17,500 --> 00:37:22,505
--they wanna have somebody sitting
-there, who can give them support,-
+نیاز داشتن یکی اونجا بشینه که بتونه
+ به خدمات پشتیبانی به اونا بفروشه،
 
 415
 00:37:23,500 --> 00:37:25,500
--who can sell them the hardware.
+که بتونه به اونا سخت‌افزار بفروشه.
 
 416
 00:37:25,501 --> 00:37:31,501
-And these people who sell this hardware
-and support are going to make money.
+و همه‌ی کسانی که سخت‌افزار و خدمات 
+پشتیبانی رو می‌فروشن، قصد دارن پول دربیارن.
 
 417
 00:37:34,500 --> 00:37:37,500
-Not everyone
-of us is a hacker.
+هیچ کدوم ما یک هکر نیستسم.
 
 418
 00:37:37,505 --> 00:37:43,505
-Actually, very few of us would take the
-effort to download Linux from the net.
+در واقع تعدا کمی از ما زحمت دانلود 
+کردن لینوکس خودمون رو از اینترنت می‌کشه.
 
 419
 00:37:44,500 --> 00:37:49,500
-Even fewer will tackle with the
-code itself in order to improve it.
+و تعداد کمتری خودشون رو با کد درگیر
+ می‌کنن و اون رو بهبود می بخشن.
 
 420
 00:37:49,505 --> 00:37:53,505
-Though, Linux was
-hard to use, customers valued strongly-
+هرچند لینوکس استفاده از لینوکس برای کار‌های خونگی سخته(مال قدیماست)،
 
 421
 00:37:53,506 --> 00:37:57,506
--its reliability
-and open source code.
+مشتری‌ها اون رو بر اساس قابلیت اطمینان
+ و متن‌باز بودن ارزشگذاری می‌کنند.
 
 422
 00:37:58,500 --> 00:38:03,500
-There was an opportunity
-for companies with new visions.
+این یک فرصت برای شرکت‌های با نگاه‌های جدید بود.
 
 423
 00:38:09,500 --> 00:38:11,500
-"Red Hat"
+«رد هت»
 
 424
 00:38:13,500 --> 00:38:16,500
-For Red Hat, it wasn't
-important that we ship a better-
+این برای رد هت مهم نیست
 
 425
 00:38:16,501 --> 00:38:19,501
--operating system than
-Microsoft's or Sun Microsystems'-
+که سیستم عامل بهتری رو از مایروسافت 
+یا سان میکروسیستم به دست مشتری برسونه.
 
 426
 00:38:19,502 --> 00:38:22,505
-It becomes really important
-that we ship an operating system-
+این برای ما مهم بود که سیستم عاملی رو
 
 427
 00:38:22,506 --> 00:38:25,506
--that solves a problem for our
-customers that they cannot solve-
+ به دست مشتری‌هامون برسونیم 
+که مشکلات اون‌ها رو حل کنه.
 
 428
 00:38:25,507 --> 00:38:29,507
--using the traditional
-proprietary "binary only" software.
+مشکلاتی که با استفاده از نرم‌افزارهای «فقط باینری»
+ اختصاصی و تجاری نمی‌تونن حل کنن. 
 
 429
 00:38:30,505 --> 00:38:33,505
-We were recognizing
-what we were doing was we were-
+ما تشخیص می‌دیم که چه کاری انجام بدیم
 
 430
 00:38:33,506 --> 00:38:35,509
--building technology
-and then giving it away!
+ که تکنولوژی بسازیم و بعد می‌بخشیمش!
 
 431
 00:38:36,500 --> 00:38:39,500
-So we said: "Well, how do
-you make money doing this?"
+پس اونا گفتن:« خوب چجوری از این پول درمیارین؟»
 
 432
 00:38:40,505 --> 00:38:43,505
-Of course, we would go to California,
-to Silicon Valley, and everyone said:
+البته ما به سیلیکون ولی در کالیفورنیا رفتیم و همه گفتن:
 
 433
 00:38:43,506 --> 00:38:46,506
