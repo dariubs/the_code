@@ -407,38 +407,37 @@
 
 100
 00:10:19,500 --> 00:10:23,500
-سلام به همه کاربران سیستم عامل مینیکس.
-من دارم یه سیستم عامل آزاد میسازم
+سلام به همه‌ی شما که از مینیکس استفاده میکنید
+من درحال ساختن یک سیستم‌عامل آزاد هستم
 
 101
 00:10:23,505 --> 00:10:27,505
-فقط برای تفریح! 
-قرار نیست مثل گنو حرفه ای باشه
+فقط یک کار سرگرم کنندست.
+نه یک چیز بزرگ و حرفه‌ای 
 
 102
 00:10:28,500 --> 00:10:32,500
--like "GNU" for 386 and 486
-AT clones.
+--مانند گنو برای کلون‌های AT ۳۸۶ و ۴۸۶ 
 
 103
 00:10:32,505 --> 00:10:35,505
-This has been brewing since
-April and is starting to get ready.
+این کار از آوریل شروع شده و
+به زودی آماده‌ی استفاده می‌شود
 
 104
 00:10:36,500 --> 00:10:39,500
-I'd like any feedback on things
-people like or dislike in MINIX-
+من پذیرای بازخورد روی تمام چیزهایی که از مینیکس
+میپسندید یا نمیپسندید 
+
 
 105
 00:10:39,505 --> 00:10:44,505
--as my OS resembles it somewhat.
-Any suggestions are welcome-
+-که در سیستم‌عامل من نیست هستم.
+درها به روی پیشنهادها باز است-
 
 106
 00:10:45,500 --> 00:10:48,500
--but I won't promise I'll actually
-implement them.
+-اما تعهد نمیکنم که همه‌ی آنها را پیاده‌سازی کنم
 
 107
 00:10:48,505 --> 00:10:51,505
@@ -446,211 +445,209 @@ torvalds@kruuna.helsinki.fi
 
 108
 00:10:52,500 --> 00:10:57,500
-1991 - The Soviet Union closes down.
+۱۹۹۱ - اتحاد‌جماهیر شوروی فروپاشید.
 
 109
 00:10:59,500 --> 00:11:01,500
-The Gulf War.
+جنگ خلیج فارس 
 
 110
 00:11:01,505 --> 00:11:04,505
-The British physicist
-Tim Berners-Lee-
+فیزیکدان بریتانیایی
+تیم برنرز لی-
 
 111
 00:11:05,500 --> 00:11:11,500
--releases a hypertext system,
-calling it the "World Wide Web".
+-یک سیستم ابر متن ساخت،
+آن را "World Wide Web" نامید.
 
 112
 00:11:14,500 --> 00:11:19,500
-Microsoft is well on the way
-for world domination.
+مایکروسافت به خوبی 
+بر جهان مسلط شد.
 
 113
 00:11:22,500 --> 00:11:26,500
-And on September 17
-Linus Torvalds sends the first-
+و در ۱۷ سپتامبر
+لینوس توروالدز اولین -
 
 114
 00:11:26,505 --> 00:11:32,505
--version of Linux, 0.01,
-to the world, via Internet.
+-نسخه از لینوکس ، نسخه ۰.۰۱،
+را درجهان بواسطه‌ی اینترنت منتشر کرد.
 
 115
 00:11:33,500 --> 00:11:37,500
-The first responses arrive
-within hours.
+اولین بازخوردها در ساعات اولیه رسیدند.
 
 116
 00:11:37,505 --> 00:11:41,505
-"Linux was invented here"
+"لینوکس اینجا اختراع شد"
 
 117
 00:11:53,500 --> 00:11:55,500
-"University of Helsinki"
+"دانشگاه هلسینکی"
 
 118
 00:11:58,500 --> 00:12:04,500
-We first heard whispers
-in the cafeteria-
+ما اولین زمزمه‌ها را
+در کافه‌‌تریا شنیدیم-
 
 119
 00:12:04,505 --> 00:12:07,505
-An operating system was being
-developed and started to spread.
+یک سیستم‌عامل توسعه‌ داده شده
+و درحال گسترش است.
 
 120
 00:12:08,500 --> 00:12:12,500
-We learned to know Linus better.
+یاد گرفتیم که لینوس را بهتر بشناسیم.
 
 121
 00:12:12,505 --> 00:12:18,505
-His programming skills had
-already been noted here.
+تکنیک‌های برنامه‌نویسی او 
+آنجا مورد توجه قرار گرفت.
 
 122
 00:12:26,500 --> 00:12:32,500
-Linus based Linux on UNIX,
-because of its basic ideals.
+لینوس لینوکس را بر اساس یونیکس ساخت،
+بخاطر پایه‌ی قدرتمند آن.
 
 123
 00:12:32,505 --> 00:12:37,505
-The original UNIX operating system
-had been created by Ken Thompson-
+نسخه‌ی اصلی یونیکس 
+توسط کن تامپسون -
 
 124
 00:12:38,500 --> 00:12:42,500
--and Dennis Ritchie
-at AT&T's Bell Labs in 1969.
+-و دنیس ریچی ساخته شده بود
+در آزمایشگاه‌های بل، AT&T.
 
 125
 00:12:42,505 --> 00:12:46,505
-UNIX was in the beginning a
-relatively free operating system-
+یونیکس در آغاز سیستم‌عاملی 
+رایگان بود-
 
 126
 00:12:47,500 --> 00:12:49,509
--and very popular in
-the university circles.
+-و محبوبیت زیادی بین
+حلقه‌های دانشگاهی داشت.
 
 127
 00:12:50,500 --> 00:12:54,500
-The philosophy is
-based on two notions:
+فلسفه بر اساس دو 
+اصل بنا شده است:
 
 128
 00:12:54,505 --> 00:12:58,505
-Firstly, everything is a file.
+اصل اول، هرچیزی یک فایل است.
 
 129
 00:12:59,500 --> 00:13:04,500
-Secondly, when you build something
-you write things that are for a single-
+اصل دوم, وقتی یک‌چیز میسازی 
+آن را برای یک هدف مشخص -
 
 130
 00:13:04,505 --> 00:13:08,505
--purpose but to
-do that purpose well.
+-میسازی اما
+آن یک کار را به خوبی انجام دهد.
 
 131
 00:13:11,509 --> 00:13:16,509
-Putting Linux on the net
-was kind of natural in many ways.
+گذاشتن لینوکس رو اینترنت
+یکی از راه‌های طبیعی در بین چندین راه بود.
 
 132
 00:13:16,509 --> 00:13:22,509
-There were a lot of small reasons.
-Like the fact that I thought it was-
+دلایل بسیاری برای این کار وجود داشت.
+مانند حقیقتی که من فکر میکنم -
 
 133
 00:13:23,500 --> 00:13:29,500
--a good idea to make Linux available to
-others so that they could try it out-
+ایده‌ی خوبی بود برای در دسترس قرار دادن لینوکس
+بیم همه که با این روش دیگران هم میتوانستند آن را امتحان کنند
 
 134
 00:13:29,501 --> 00:13:32,501
--and send comments back to me.
+-و نظراتشان را برای من بفرستند.
 
 135
 00:13:33,500 --> 00:13:36,500
-He really had two choices.
-He could make it completely free-
+او واقعا دو انتخاب داشت.
+او میتوانست لینوکس را کاملا رایگان منتشر کند-
 
 136
 00:13:36,501 --> 00:13:39,501
--or he can try and charge for it.
+-یا اینکه مبلغی برای استفاده از آن دریافت کند.
 
 137
 00:13:39,505 --> 00:13:43,505
-Linux would not exist if he
-had tried to make profit out of it.
+لینوکسی وجود نداشت اگر او
+تلاش میکرد از آن کسب درآمد کند.
 
 138
 00:13:44,500 --> 00:13:50,500
-Nobody would have bought it.
-It would have been a dead end.
+هیچکس آن را نمیخرید.
+این میتوانست یک پایان ناخوش‌آیند باشد.
 
 139
 00:13:51,500 --> 00:13:58,500
-You haven't been here for a while.
-We've already installed the third version...
+شما مدتها اینجا نبودید.
+ما هم‌اکنون نسخه‌ی ۳ آن را نصب کردیم...
 
 140
 00:14:00,500 --> 00:14:06,500
-We had difficulties to fit
-Linux-stuff into one computer.
+ما مشکلات زیادی برای تطبیق‌پذیری لینوکس
+در یک کامپیوتر داشتیم.
 
 141
 00:14:06,505 --> 00:14:11,505
-At first Linus didn't want to
-release Linux for free.
+در ابتدا لینوس قصد نداشت
+لینوکس را به رایگان منتشر کند.
 
 142
 00:14:12,500 --> 00:14:18,500
-He was thinking hard about
-what kind of copyright he would use.
+او سخت به اینکه از چه کپی‌رایتی 
+استفاده کند فکر میکرد.
 
 143
 00:14:23,500 --> 00:14:30,500
-I persuaded him to release it
-under the GNU copyright.
+من متقاعدش کردم لینوکس را تحت
+مجوز گنو منتشر کند.
 
 144
 00:14:30,505 --> 00:14:35,505
-Especially, as the compiler I
-used was released under the GPL-
+مخصوصا کامپایلری که من استفاده میکردم 
+تحت مجوز آزاد GPL منتشر شده بود-
 
 145
 00:14:36,500 --> 00:14:40,500
--I eventually ended
-up using the GPL myself.
+-من به این کار پایان دادم
+و برای خود از GPL استفاده کردم.
 
 146
 00:14:44,500 --> 00:14:50,500
-The "GNU General Public License" (GPL)
-funded by the Free Software Foundation-
+مجوز عمومی گنو (GPL)
+توسط بنیاد نرم‌افزار آزاد بنیان نهاده‌شده بود-
 
 147
 00:14:50,505 --> 00:14:56,505
--in the mid 1980's says that
-if you change and modify the code-
+-درمیانه‌های ۱۹۸۰ گفت که
+اگر شما تغییری در کد بوجود آورید-
 
 148
 00:14:57,500 --> 00:15:01,500
--you have to make your changes
-and improvements freely available.
+-باید تغییرات و بهبودهای خود را
+بصورت رایگان در دسترس قرار دهید.
 
 149
 00:15:01,505 --> 00:15:05,505
-The GPL hinders any one person
-to have a monopoly-
+مجوز GPL درمقابل هرکسی که
+بخواهند انحصار ایجاد کنند -
 
 150
 00:15:06,500 --> 00:15:09,500
--فرا تر از یک مهم ،
-قسمتی از از فناوری
-
+-روی یک تکنولوژی 
+در مقابل آنها می‌ایستد.
 151
 00:15:10,500 --> 00:15:14,500
 من فکر میکنم که حتی زمان بندی هم خوب بود . 
